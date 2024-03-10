@@ -1,0 +1,36 @@
+    0  sudo su    
+    1  yum install git -y
+    2  yum update -y
+    3  yum upgrade -y
+    4  yum install git -y
+    5  git --version
+    6  git config --global user.
+    7  git config --global user.name "prashantbokade1995"
+    8  git config --global user.email "prashantbokade1995@gmail.com"
+    9  mkdir awsfile
+   10  ls
+   11  cd awsfile
+   12  ls
+   13  touch aws.txt
+   14  ls
+   15  ls -ls
+   16  cat > newfile 
+   17  ls
+   18  git status
+   66  git status
+   67  ls -la
+   68  git remote -v
+   69  cat >> thisfile
+   70  git log
+   71  git log --oneline
+   72  git log 1
+   73  git log1
+   74  which git
+   75  ls
+   57  git init
+   58  git add .
+   59  git status
+   60  git commit -m "first commit"
+   61  git branch -M main
+   62  git remote add origin https://github.com/prashantbokade1995/aws.git
+   63  git push -u origin main
